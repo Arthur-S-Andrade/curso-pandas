@@ -1,21 +1,6 @@
-# Pandas 2025
+# Curso de Pandas para Ciência de Dados - Em Andamento
 
-Curso renovado de Pandas realizado ao vivo de form gratuita, com gravação disponível no [YouTube](youtube.com/@teomewhy).
-
-## Pré-requisito
-
-- Ter Python instalado. Sugestão de vídeo para instalação, [clique aqui](https://youtu.be/OeKzVjiiRm4?si=PT0v4LwNE9SUL-2m).
-- Python Básico: sintaxe da linguagem e lógica de programação. [Conheça mais aqui](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D).
-
-## Material de apoio
-
-Temos um material de apoio para nosso treinamento, contendo algumas orientações e exercícios. [Confira aqui](https://docs.google.com/presentation/d/10_lCOieWozst3t2ldGaY78vxh4mOGkplHqXBQ7M3eDo/edit?usp=sharing).
-
-## Dados
-
-Utilizaremos dados reais durante o nosso curso. Acesse os [dados aqui](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system).
-
-## Ementa
+## Concluído
 
 1. Principais objetos do Pandas
     - Series
@@ -29,6 +14,10 @@ Utilizaremos dados reais durante o nosso curso. Acesse os [dados aqui](https://w
     - Tipos de colunas
     - Navegação em linhas e colunas
     - Renomeando colunas
+
+-----//-----
+
+## Próximos Passos
 
 4. Filtrando dados
     - Condições lógicas
