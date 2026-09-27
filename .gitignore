@@ -1,4 +1,4 @@
 *.csv
+*.db
 *.xlsx
 *.parquet
-*.db
