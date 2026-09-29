@@ -15,9 +15,7 @@
     - Navegação em linhas e colunas
     - Renomeando colunas
 
------//-----
 
-## Próximos Passos
 
 4. Filtrando dados
     - Condições lógicas
@@ -26,9 +24,11 @@
     - Criação de novas colunas
     - Ordenação
     - Conversão de tipos
-    - Aplicando funções em linhas e colunas
+    - Aplicando funções em linhas e colunas **
     - Removendo Duplicatas
     - Trabalhando com NAs
+
+## Próximos Passos
 
 6. GroupBy
     - Agregando dados
