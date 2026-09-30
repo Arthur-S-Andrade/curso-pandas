@@ -24,16 +24,16 @@
     - Criação de novas colunas
     - Ordenação
     - Conversão de tipos
-    - Aplicando funções em linhas e colunas **
+    - Aplicando funções em linhas e colunas
     - Removendo Duplicatas
     - Trabalhando com NAs
-
-## Próximos Passos
 
 6. GroupBy
     - Agregando dados
     - O método agg
     - Agregações personalizadas
+
+## Próximos Passos
   
 7. Cruzamento de dados
     - Merge
