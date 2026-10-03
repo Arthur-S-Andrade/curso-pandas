@@ -32,12 +32,12 @@
     - Agregando dados
     - O método agg
     - Agregações personalizadas
-
-## Próximos Passos
   
 7. Cruzamento de dados
     - Merge
     - Concat
+
+## Próximos Passos
 
 8. Manipulações adicionais
     - Stack
