@@ -37,17 +37,15 @@
     - Merge
     - Concat
 
-## Próximos Passos
-
-8. Manipulações adicionais
-    - Stack
-    - Unstack
-    - Pivot Table
-    - Explode
-
-9. Conectando com Bancos SQL
+8. Conectando com Bancos SQL
     - Importando dados
     - Executando Queries
     - Escrevendo dados
 
+## Próximos Passos
 
+9. Manipulações adicionais
+    - Stack
+    - Unstack
+    - Pivot Table
+    - Explode
