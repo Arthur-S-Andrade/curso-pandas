@@ -1,6 +1,6 @@
 # Curso de Pandas para Ciência de Dados - Em Andamento
 
-## Concluído
+## 100% Concluído
 
 1. Principais objetos do Pandas
     - Series
@@ -46,7 +46,4 @@
     - Stack
     - Unstack
     - Pivot Table
-
-## Próximos Passos
-
     - Explode
