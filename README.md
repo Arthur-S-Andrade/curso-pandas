@@ -42,10 +42,11 @@
     - Executando Queries
     - Escrevendo dados
 
-## Próximos Passos
-
 9. Manipulações adicionais
     - Stack
     - Unstack
     - Pivot Table
+
+## Próximos Passos
+
     - Explode
